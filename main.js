@@ -1,3 +1,4 @@
+// fazer alteração somente nessa const fora das funçoes
 const LinksSocialMedia = {
   github: 'leandryncsc',
   youtube: 'StrondaGame',
